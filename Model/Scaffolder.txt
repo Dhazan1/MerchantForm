@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=172.27.4.199;database=Webmerchant;user id=webmerchantuser;password=Webmerchant545#;Trusted_Connection=False;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models/WebMarchant -ContextDir Contexts/WebMarchant -UseDatabaseNames -force -NoOnConfiguring
